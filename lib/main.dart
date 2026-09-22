@@ -5,7 +5,9 @@ void main() {
 }
 
 // ================================================================
-// ROOT APP - GLOBAL THEME STATE
+// Acitvity 04: Team CHADS
+// Members: Het Jani ; Panther ID: 002826152
+//          Rohan Reddy Gosangi: 002845899
 // ================================================================
 
 class ViralStudioApp extends StatefulWidget {
